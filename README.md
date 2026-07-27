@@ -50,7 +50,7 @@ Selected projects underpinning the talks above (18 public repos at [github.com/w
 
 ## Contact
 
-- Email: britleyhoff@gmail.com
+- Email: britleyhoff@britleyhoffconsulting.com
 - GitHub: [github.com/wren-creator](https://github.com/wren-creator)
 - LinkedIn: [linkedin.com/in/britley-h-2a429811](https://linkedin.com/in/britley-h-2a429811)
 
