@@ -13,7 +13,7 @@ At the 2026 Red Hat Conference in Atlanta, her talk on the Rosetta Stone legacy-
 ## Featured talks
 
 **The Terminal Time Forgot** — *Mainframe Security*
-A hands-on look at Web3270, an open-source, browser-based TN3270 client, and the decades-old attack surface it exposes: RACF credential probing, protocol fuzzing, and live man-in-the-middle field injection on systems that still run the world's core financial infrastructure.
+A hands-on look at Wren-3270, an open-source, browser-based TN3270 client, and the decades-old attack surface it exposes: RACF credential probing, protocol fuzzing, and live man-in-the-middle field injection on systems that still run the world's core financial infrastructure.
 
 **Silicon Sovereignty: Reclaiming AI from the Cloud** — *AI Infrastructure*
 Why "private AI" usually still means someone else's cloud, and what it actually takes, hardware, local inference, retrieval, agent protocols, to run a fully sovereign AI stack you own end to end, from a laptop to an enterprise mainframe.
@@ -36,7 +36,7 @@ Inside the AI + Ansible pipeline born at Red Hat Summit and reforged at the 2026
 
 Selected projects underpinning the talks above (18 public repos at [github.com/wren-creator](https://github.com/wren-creator)):
 
-- **[Web3270](https://github.com/wren-creator/web3270)** — browser-based TN3270(E) mainframe terminal client with a built-in security-testing toolkit (RACF probing, protocol fuzzing, MITM traffic modification)
+- **[Wren-3270](https://github.com/wren-creator/wren-3270)** — browser-based TN3270(E) mainframe terminal client with a built-in security-testing toolkit (RACF probing, protocol fuzzing, MITM traffic modification)
 - **[Rosetta Stone](https://github.com/wren-creator/red-hat-conference)** — AI + Ansible legacy code modernization pipeline; documents, tests, and converts legacy scripts before touching them
 - **[ModelForge](https://github.com/wren-creator/ModelForge)** — LLM observability and hardware-recommendation platform for local/private model deployment
 - **[LLM Validator](https://github.com/wren-creator/llm-validator)** — model-fingerprinting CLI that detects silent provider-side model changes via deterministic prompts and response hashing
